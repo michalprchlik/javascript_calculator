@@ -2,12 +2,8 @@
 
 ## Overview
 
-This repository contains only one file `index.html`. The file has 3 parts
+Very simple calculator written in Javascript/JQuery. All code is in one file `index.html`. In real-world scenario, every part of code should be separated to files. CSS and Javascript should be in `*.css` and `*.js` files
 
-- HTML code
-
-- CSS code
-
-- Javascript/JQuery code
+## Preview
 
 ![calculator.png](calculator.png)
