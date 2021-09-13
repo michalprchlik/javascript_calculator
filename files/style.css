@@ -46,7 +46,7 @@ body {
 }
 
 .operator,
-.cls,
+.clear,
 .evaluate,
 .button {
   width: 15%;
@@ -61,7 +61,7 @@ body {
 }
 
 .operator:hover,
-.cls:hover,
+.clear:hover,
 .evaluate:hover,
 .button:hover {
   background-color: #2062aa;
